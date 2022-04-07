@@ -15,6 +15,7 @@ public class GitTest {
         System.out.println("push");
         System.out.println("1111");
         System.out.println("poll");
+        System.out.println("github->gitee");
 
     }
 }
